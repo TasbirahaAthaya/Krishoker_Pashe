@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk2">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sharna.krishokerpase.projukti"
+    tools:showIn="@layout/activity_projukti"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="কৃষকের পাশে"
+        android:textSize="35sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="30dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+
+        android:text="নতুন উদ্ভাবন"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:onClick="new1"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/button"
+        android:padding="5dp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:id="@+id/b1"
+        android:text="    সেচ ব্যবস্থা"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/button"
+        android:padding="5dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:id="@+id/b2"
+        android:text="    ট্র্যাক্টর"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/button"
+        android:padding="5dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:id="@+id/b3"
+        android:text="    কীটনাশক "
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/button"
+        android:padding="5dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:id="@+id/b4"
+        android:text="     সার"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/button"
+        android:padding="5dp"/>
+
+
+
+</LinearLayout>
+</ScrollView>

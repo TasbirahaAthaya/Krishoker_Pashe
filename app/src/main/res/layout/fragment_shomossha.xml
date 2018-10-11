@@ -1,0 +1,112 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/bc1"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="প্রশ্ন: ১।   অনুর্বর পতিত জমিতেও কি তুলা চাষ করা যাবে ?"
+    android:textColor="#000"
+    android:layout_marginBottom="15dp"
+    android:textSize="20sp"
+    android:id="@+id/p1"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দিন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:onClick="dibo"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দেখুন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:onClick="dekhbo"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="প্রশ্ন: ২।   তুলা চাষের জন্য ভাল/ উন্নত মানের বীজ কোথায় পাওয়া যাবে ?"
+        android:textColor="#000"
+        android:layout_marginBottom="15dp"
+        android:textSize="20sp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দিন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:onClick="dibo"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দেখুন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:onClick="dekhbo"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="প্রশ্ন: ৩।   মাজরা পোকা দমনে কি কি কীটনাশক ব্যাবরিত হয় ?"
+        android:textColor="#000"
+        android:layout_marginBottom="15dp"
+        android:textSize="20sp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দিন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:layout_marginRight="10dp"
+            android:onClick="dibo"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সমাধান দেখুন"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:onClick="dekhbo"/>
+
+    </LinearLayout>
+
+</LinearLayout>

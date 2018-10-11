@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">কৃষকের পাশে </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_projukti">projukti</string>
+    <string name="title_activity_ovijog">ovijog</string>
+    <string name="title_activity_stat">stat</string>
+    <string name="title_activity_ovijogform">ovijogform</string>
+    <string name="title_activity_projuktidetail">projuktidetail</string>
+    <string name="title_activity_shomossha">Shomossha</string>
+    <string name="title_activity_loan">loan</string>
+    <string name="title_activity_call">call</string>
+
+</resources>

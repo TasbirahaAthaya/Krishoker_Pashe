@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sharna.krishokerpase"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/splash"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme" >
+        <activity
+            android:name="com.example.sharna.krishokerpase.Spalash"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.sharna.krishokerpase.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name="com.example.sharna.krishokerpase.AreaName" />
+        <activity android:name="com.example.sharna.krishokerpase.price" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.projukti"
+            android:label="@string/title_activity_projukti"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.ovijog"
+            android:label="@string/title_activity_ovijog"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.stat"
+            android:label="@string/title_activity_stat"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.ovijogform"
+            android:label="@string/title_activity_ovijogform"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.projuktidetail"
+            android:label="@string/title_activity_projuktidetail"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.Shomossha"
+            android:label="@string/title_activity_shomossha"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.loan"
+            android:label="@string/title_activity_loan"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.example.sharna.krishokerpase.call"
+            android:label="@string/title_activity_call"
+            android:theme="@style/MyMaterialTheme" />
+    </application>
+
+</manifest>

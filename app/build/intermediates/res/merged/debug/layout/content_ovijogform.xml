@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc1">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sharna.krishokerpase.ovijogform"
+    tools:showIn="@layout/activity_ovijogform"
+    android:orientation="vertical"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="অভিযোগফর্ম"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="40sp"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="নামঃ"
+        android:textSize="20sp"
+        android:id="@+id/name"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ঠিকানাঃ"
+        android:textSize="20sp"
+        android:id="@+id/add"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="এলাকাঃ"
+        android:textSize="20sp"
+        android:id="@+id/ar"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp"
+        android:textColor="#000"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="মোবাইল নাম্বারঃ"
+        android:textSize="20sp"
+        android:id="@+id/phn"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp"
+        android:textColor="#000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="অভিযোগের বর্ণনাঃ"
+        android:textSize="20sp"
+        android:id="@+id/desc"
+        android:textColor="#000000" />
+
+    <EditText
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:id="@+id/descname"
+        android:layout_marginLeft="10dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="জমা দিন"
+
+        android:background="@drawable/apture"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:onClick="joma"
+        android:clickable="true"
+        android:textStyle="bold"
+        android:textSize="20dp" />
+</LinearLayout>
+    </ScrollView>

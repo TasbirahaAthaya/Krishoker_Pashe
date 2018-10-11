@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "H:\\Android\\New\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "J:\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "G:\\call\\krishokerMerge_v2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android Projects\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android Projects\\hackathon\\krishok_merge\\krishokerpase-20161101T151321Z\\krishokerMerge\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "H:\\Android\\krishok\\krishokerpase-20161101T151321Z\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "H:\\Navigation_make my trip\\krishokerpase\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    }
+]

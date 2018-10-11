@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk2">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sharna.krishokerpase.projuktidetail"
+    tools:showIn="@layout/activity_projuktidetail"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="কৃষকের পাশে"
+        android:textSize="35sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="ভার্সাটাইল মাল্টি ক্রপ প্লেনটার :"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="#64DD17"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:textAlignment="center"
+
+
+
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="@drawable/va"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="\nসম্ভাব্য মূল্য : ২০০০০ টাকা
+এই যন্ত্র দিয়ে খুব সহজেই বীজ রোপনের জন্য জমি তৈরী করা যায় এবং নির্দিষ্ট দুরুত্বে বীজ রোপন করা যায়|
+"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="#1A000000"
+        android:layout_marginBottom="30dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="ক্রপ কাটিং মেশিন:"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="#64DD17"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:textAlignment="center"
+
+
+
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="@drawable/ca"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+
+
+        android:text="\nসম্ভাব্য মূল্য : ২৫০০০ টাকা
+এর সহায়তায় খুব সহজেই অল্প সময়ে ফলন হয়ে ফসল কেটে নেয়া যায়|\n "
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:padding="3dp"
+        android:background="#1A000000"
+        android:layout_marginBottom="30dp"/>
+
+
+</LinearLayout>
+    </ScrollView>
